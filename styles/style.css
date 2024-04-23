@@ -34,8 +34,8 @@ a {
 
 .header__links-list {
   display: flex;
-  gap: 32px;
-  letter-spacing: 0.1px;
+  gap: 27px;
+  letter-spacing: 0.0px;
 }
 
 .header__links-list-item_no-bullit {
@@ -68,8 +68,7 @@ a {
   justify-self: center;
 }
 
-.address {
-  font-style: normal; 
+.address { 
   max-height: 98px;
   max-width: 240px;
   justify-self: end;
