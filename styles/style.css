@@ -265,9 +265,9 @@ a {
 
 .about {
   display: grid;
-  grid-template-columns: min-content 1fr;
-  padding: 155px 72px 0px;
-  column-gap: 72px;
+  grid-template-columns: 334px 1fr;
+  padding: 155px 24px 0px;
+  column-gap: 24px;
 }
 
 .about__column {
@@ -278,6 +278,7 @@ a {
 
 .about__logo {
   display: flex;
+  margin-left: 47px;
   width: 240px;
   height: 240px;
   border-radius: 50%;
